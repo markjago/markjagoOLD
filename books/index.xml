@@ -11,5 +11,41 @@
 	<atom:link href="http://markjago.net/books/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Impossible Worlds</title>
+      <link>http://markjago.net/books/4-impossibleworlds/</link>
+      <pubDate>Sat, 18 Jul 2020 22:23:38 +0100</pubDate>
+      
+      <guid>http://markjago.net/books/4-impossibleworlds/</guid>
+      <description>We need to understand the impossible. Francesco Berto and Mark Jago start by considering what the concepts of meaning, information, knowledge, belief, fiction, conditionality, and counterfactual supposition have in common.</description>
+    </item>
+    
+    <item>
+      <title>Reality Making</title>
+      <link>http://markjago.net/books/2-realitymaking/</link>
+      <pubDate>Sat, 18 Jul 2020 22:23:38 +0100</pubDate>
+      
+      <guid>http://markjago.net/books/2-realitymaking/</guid>
+      <description>What makes up reality, and how? What kinds of entity are fundamental to reality, and how do dependent entities depend on the fundamental ones?</description>
+    </item>
+    
+    <item>
+      <title>The Impossible</title>
+      <link>http://markjago.net/books/1-theimpossible/</link>
+      <pubDate>Sat, 18 Jul 2020 22:23:38 +0100</pubDate>
+      
+      <guid>http://markjago.net/books/1-theimpossible/</guid>
+      <description>I present an original philosophical account of meaningful thought: in particular, how it is meaningful to think about things that are impossible.</description>
+    </item>
+    
+    <item>
+      <title>What Truth Is</title>
+      <link>http://markjago.net/books/3-whattruthis/</link>
+      <pubDate>Sat, 18 Jul 2020 22:23:38 +0100</pubDate>
+      
+      <guid>http://markjago.net/books/3-whattruthis/</guid>
+      <description>I present and defend a novel theory of what truth is, in terms of the metaphysical notion of truthmaking. This is the relation which holds between a truth and some entity in the world, in virtue of which that truth is true.</description>
+    </item>
+    
   </channel>
 </rss>

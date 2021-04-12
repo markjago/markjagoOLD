@@ -8,7 +8,17 @@
   </url>
   
   <url>
+    <loc>http://markjago.net/articles/</loc>
+    <lastmod>2020-07-18T22:23:38+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://markjago.net/books/</loc>
+    <lastmod>2020-07-18T22:23:38+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://markjago.net/books/4-impossibleworlds/</loc>
     <lastmod>2020-07-18T22:23:38+01:00</lastmod>
   </url>
   
@@ -18,13 +28,32 @@
   </url>
   
   <url>
+    <loc>http://markjago.net/books/2-realitymaking/</loc>
+    <lastmod>2020-07-18T22:23:38+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://markjago.net/teaching/</loc>
+    <lastmod>2020-07-18T22:23:38+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://markjago.net/books/1-theimpossible/</loc>
     <lastmod>2020-07-18T22:23:38+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://markjago.net/videos/</loc>
     <lastmod>2020-07-18T22:23:38+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://markjago.net/books/3-whattruthis/</loc>
+    <lastmod>2020-07-18T22:23:38+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://markjago.net/research/atheism/</loc>
   </url>
   
   <url>
@@ -36,7 +65,27 @@
   </url>
   
   <url>
+    <loc>http://markjago.net/research/essence/</loc>
+  </url>
+  
+  <url>
+    <loc>http://markjago.net/research/impossibility/</loc>
+  </url>
+  
+  <url>
+    <loc>http://markjago.net/research/socialmetaphysics/</loc>
+  </url>
+  
+  <url>
     <loc>http://markjago.net/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>http://markjago.net/research/truthandtruthmaking/</loc>
+  </url>
+  
+  <url>
+    <loc>http://markjago.net/research/truthmakersemantics/</loc>
   </url>
   
 </urlset>
